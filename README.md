@@ -216,8 +216,8 @@ matrix-multiplier-vlsi/
 
 ## 👨‍💻 Authors
 
-- Siddhant Singh  
-- Sai Akhilash  
+- Sai Akhilash
+- Siddhant Singh 
 - Anshika Gupta  
 - Laveesh M Suvarna  
 
